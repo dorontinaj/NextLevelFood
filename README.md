@@ -13,6 +13,12 @@ This repository holds the Meal Recipes web app built using Next JS & React JS.
 ```bash
   npm install
 ```
+
+* Run the development server in the main project folder
+```bash
+  npm run build
+```
+
 * Start the local server
 ```bash
   npm start
